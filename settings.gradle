@@ -1,0 +1,1 @@
+include ':app', ':djiplugin', ':test', ':dji-sdk-4.9.0.1'
